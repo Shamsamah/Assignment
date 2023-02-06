@@ -1,6 +1,3 @@
-// npm init -ynpm init -y
-// npm install axios assert https mocha
-
 const axios = require('axios');
 const assert = require('assert');
 const https = require('https');
